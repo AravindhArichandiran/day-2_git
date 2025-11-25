@@ -1,4 +1,3 @@
 welcome all of you to my-github
 new line created
 second line added
-third line
